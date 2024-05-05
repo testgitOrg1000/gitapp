@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/vijayseth12/HRMSWeb/_apis/build/status%2FtestgitOrg1000.gitapp?branchName=master)](https://dev.azure.com/vijayseth12/HRMSWeb/_build/latest?definitionId=24&branchName=master)
